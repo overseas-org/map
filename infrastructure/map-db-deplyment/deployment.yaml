@@ -30,7 +30,7 @@ spec:
       
       containers:
       - name: map-db-container
-        image: mysql
+        image: docker.io/mysql
         ports:
         - containerPort: 3306
         
