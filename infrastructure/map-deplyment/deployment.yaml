@@ -30,7 +30,7 @@ spec:
       
       containers:
       - name: map-container
-        image: hhana982/map:1.<version>
+        image: docker.io/hhana982/map:1.<version>
         ports:
         - containerPort: 5000
         
